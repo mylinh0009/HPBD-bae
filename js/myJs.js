@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Hello cauuu!",
+  text1: "Hello Bae :3!",
   text2: "T có điều này muốn hỏi, nhớ trả lời thật lòng nheee :>",
-  text3: "Thích t phải honggg? :3",
-  text4: "Nếu m hongg trả lời mà thoát ra tức là thích t đó nheee:v",
-  text5: "Mơ đi iemm:<",
-  text6: "Sao đoán hay dzayyy <3",
-  text7: "M thích t ở điểm nàoo taa? :3",
+  text3: "Sinh nhật này, tuổi mới m ước được cái chi taa?:3 ",
+  text4: "Đừng tham lam mà chọn cả 2 nheee",
+  text5: "Xinh đẹp, học giỏi:>",
+  text6: "Xinh đẹp, học giỏi, có người eoo cực kì xịn xòo :>",
+  text7: "M muốn nói gì với t honggg? :3",
   text8: "Send to me :>",
-  text9: "Vì m dethuong xĩuuu <33",
-  text10: "Hyhy :3 Loveyou3000",
+  text9: "Iu thương m kinh khunrgg, lovebae <3",
+  text10: "Hyhy :3 iuem siu nhiềuu",
   text11:
-    "Giờ m có nguoiyeu rùiii nhee, còn chần chờ gì nữa mà hong vào ib cho t ngay nàooo :33",
-  text12: "Okelaaa, chốt đơnn <3",
+    " Chúc m sinh nhật vui vẻ, tuổi mới xinh đẹp, thành công, sớm có nguoiyeu iu thưn nheee. Happy Birthdayy:3",
+  text12: "Okela bbi <3",
 };
 
 $(document).ready(function () {
